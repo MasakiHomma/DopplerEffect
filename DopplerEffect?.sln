@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{96A9DAD4-7589-3D2F-72B8-498D43A0EEDF}") = "DopplerEffect?", "Assembly-CSharp.csproj", "{CEE3E51E-09A1-18E0-CD67-928DB2C9AEF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE3E51E-09A1-18E0-CD67-928DB2C9AEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE3E51E-09A1-18E0-CD67-928DB2C9AEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE3E51E-09A1-18E0-CD67-928DB2C9AEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE3E51E-09A1-18E0-CD67-928DB2C9AEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
